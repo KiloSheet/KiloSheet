@@ -5,15 +5,11 @@
 
 - 🎭 In Love With **Griefing/Abusing/Stress-Testing**
 
-- 🌱 I’m currently learning **Java And CSS**
+- 🌱 I’m Currently Developing **NetTitan**
 
 - 👓 I’m looking to get popular At **Developing**
 
 - 🤝 I’m looking for help with **Fixing Security Bugs**
-
-- 📫 How to reach me **discord: kilosheet**
-
-- ⚡ Fun fact **My nightmare is LuckPerms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
